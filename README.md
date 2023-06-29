@@ -2,7 +2,7 @@
 
 # clone
 
-    githube cloning
+    github cloning
     git pull
 
 # install
